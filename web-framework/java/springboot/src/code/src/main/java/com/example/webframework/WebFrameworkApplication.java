@@ -37,7 +37,7 @@ public class WebFrameworkApplication {
                 "• 下载Serverless Devs工具：npm install @serverless-devs/s<br/>" +
                 "• 初始化项目：s init start-springboot<br/>" +
                 "• 项目部署：s deploy<br/><br/>" +
-                "Serverless Devs 钉钉交流群：33947367 </p>" +
+                "Serverless Devs 钉钉交流群2222222：33947367 </p>" +
                 "</div></div></body></html>";
         return new ResponseEntity<>(welcome, HttpStatus.OK);
     }
